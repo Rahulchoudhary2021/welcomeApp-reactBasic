@@ -1,0 +1,16 @@
+.header{
+  background-color: aqua;
+  text-align: center;
+  text-decoration-style: dotted;
+  
+}
+.footer{
+  text-align:center;
+  background-color: yellow;
+  position: fixed;
+  left:0;
+  bottom: 0;
+  width: 100%;
+
+
+}
